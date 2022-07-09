@@ -1,0 +1,85 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+body {
+    width: 116%;
+    height: auto;
+}
+
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    height: 70vh;
+    overflow: hidden;
+}
+
+.stars {
+    width: 100%;
+    height: 50vh;
+}
+.thumbnail {
+    border: 2px solid rgb(231 229 229);
+}
+
+.hj {
+    text-align: center;
+}
+
+.lorem {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 14px;
+}
+
+.footer {
+    background-color: #010152;
+    text-align: center;
+    margin-top: 34px;
+    margin-bottom: 30px;
+    padding-top: 40px;
+    max-width: 100%;
+    height: 23vh;
+}
+
+.sl {
+    color: rgb(255, 251, 2);
+}
+.gam {
+    color: rgb(255, 251, 2);
+}
+.gh {
+    color: rgb(255, 251, 2);
+}
+
+.sl1 {
+    color: rgb(2, 255, 36);
+}
+.gam1 {
+    color: rgb(2, 255, 36);
+}
+.gh1 {
+    color: rgb(2, 255, 36);
+}
+
+.sl2 {
+    color: rgb(255, 255, 255);
+}
+.gam2 {
+    color: rgb(255, 255, 255);
+}
+.gh2 {
+    color: rgb(255, 255, 255);
+}
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    position: relative;
+    font-size: 25px;
+    left: 90px;
+}
+
+
